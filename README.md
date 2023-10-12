@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rana.sksohel@gmail.com**
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranasksohel&label=Profile%20views&color=0e75b6&style=flat" alt="ranasksohel" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranasksohel&label=Profile%20views&color=0e75b6&style=flat" alt="ranasksohel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranasksohel&theme=darkhub" alt="ranasksohel" /></a> </p>
 
