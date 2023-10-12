@@ -15,7 +15,7 @@ My Skills : HTML / CSS / C / PHP / PYTHON / MySQL
 - 😄 Pronouns: asdf 
 - ⚡ Fun fact: dgsgf 
 
-Social Information : <br> <br>
+Social Information : <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ranasksohel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/sk-sohel-rana//) 
 <br>
 GITHUB TROPHIES : <br> <br>
