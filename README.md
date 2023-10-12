@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **This Page**
 - 👯 I’m looking to collaborate on **GitHub**
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **MySQL**
 
 - 📫 How to reach me **rana.sksohel@gmail.com**
 
