@@ -19,7 +19,7 @@ Social Information : <br> <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ranasksohel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/sk-sohel-rana//)  
 GITHUB TROPHIES : <br> <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ranasksohel)](https://github.com/ryo-ma/github-profile-trophy)
-
+STATISTICS : 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranasksohel)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ranasksohel&show_icons=true)  
