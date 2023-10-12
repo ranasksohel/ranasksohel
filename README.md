@@ -1,15 +1,17 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Sohel Rana</h1>
 <h3 align="center">I am a frontend Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranasksohel&label=Profile%20views&color=0e75b6&style=flat" alt="ranasksohel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranasksohel&theme=darkhub" alt="ranasksohel" /></a> </p>
 
 - 🔭 I’m currently working on **This Page**
 - 👯 I’m looking to collaborate on **GitHub**
 - 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **rana.sksohel@gmail.com**
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranasksohel&label=Profile%20views&color=0e75b6&style=flat" alt="ranasksohel" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranasksohel&theme=darkhub" alt="ranasksohel" /></a> </p>
+
 
 <div> <a href="https://www.linkedin.com/in/linkedin.com/in/sk-sohel-rana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/ranasksohel" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
