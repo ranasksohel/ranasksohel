@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **GitHub**
 - 🌱 I’m currently learning **MySQL**
 
-- 📫 How to reach me **rana.sksohel@gmail.com**
+- 📫 How to reach me **sohel.pentester@gmail.com**
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranasksohel&label=Profile%20views&color=0e75b6&style=flat" alt="ranasksohel" /> </p>
 
